@@ -39,4 +39,3 @@ jobs:
           files: ./*.zip
           draft: true
           title: "Onion V"
-
